@@ -1,0 +1,18 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "gulp projects template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "gulp"
+  ],
+  "author": "Ivan Romanov",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
